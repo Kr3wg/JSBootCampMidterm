@@ -1,4 +1,11 @@
-write a function named betterThanAverage. betterThanAverage should take two arguments. The first argument is an array of all test scores in the class not including your score. The second is your test score. Write a function that returns a string that tells if your score is better, worse, or the same as the average score in the class. The average score should be rounded down. Remember that your score is not included in the total scores so will have to add it to the array of all test scores.
+write a function named betterThanAverage. 
+betterThanAverage should take two arguments. 
+The first argument is an array of all test scores in the class not including your score. 
+The second is your test score. 
+Write a function that returns a string that tells if your score is better, worse, 
+or the same as the average score in the class. The average score should be rounded down. 
+Remember that your score is not included in the total scores so will have to add it to the 
+array of all test scores.
 
 Checkout this rounding method to help
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor
